@@ -33,7 +33,7 @@ Magento Vtiger CRM Sync extension allows matching between the Magento attributes
 Transfer and refresh automatically Customers from Magento store into Vtiger CRM Leads, Organizations, Contacts 
 Auto-transferring every personal information of each customer that is completed in the registration process into Vtiger CRM respectively including Vtiger CRM Leads, Organizations and Contacts. Especially, if any change occurs, the module allows auto-updating simultaneously without manual import.
 
-![vtiger crm sync magento customers]({{ site.url }}/assets/img/extensions-images/magento-2-vtiger-integration/sync-customers.png)
+![vtiger crm sync magento customers](https://www.mageplaza.com/assets/img/extensions-images/magento-2-vtiger-integration/sync-customers.png)
 
 
 
@@ -43,7 +43,7 @@ Transfer automatically Orders from Magento 2 store into Vtiger CRM Sales Orders
 Right after an order is created at your Magento store, Magento Vtiger CRM Sync module will take the order information automatically to enter into Vtiger CRM Sales Orders.
 
 
-![vtiger crm sync magento sales orders]({{ site.url }}/assets/img/extensions-images/magento-2-vtiger-integration/sync-sales-orders.png)
+![vtiger crm sync magento sales orders](https://www.mageplaza.com/assets/img/extensions-images/magento-2-vtiger-integration/sync-sales-orders.png)
 
 
 ### Sync Invoices
@@ -53,7 +53,7 @@ Each invoice that is made by customer will be auto-updated in the Vtiger CRM Inv
 
 
 
-![vtiger crm sync magento sales invoices]({{ site.url }}/assets/img/extensions-images/magento-2-vtiger-integration/magento-sync-invoices.png)
+![vtiger crm sync magento sales invoices](https://www.mageplaza.com/assets/img/extensions-images/magento-2-vtiger-integration/magento-sync-invoices.png)
 
 ### Sync Catalog Products
 
@@ -61,7 +61,7 @@ Transfer and refresh automatically Products from Magento store into Vtiger CRM P
 For the better inventory management of each product, Magento Vtiger CRM Sync supports the auto-transferring and refreshing Product Detail, Pricing and Stock Information from your store to Vtiger CRM Products.
 
 
-![vtiger crm sync magento catalog products]({{ site.url }}/assets/img/extensions-images/magento-2-vtiger-integration/sync-catalog-products.png)
+![vtiger crm sync magento catalog products](https://www.mageplaza.com/assets/img/extensions-images/magento-2-vtiger-integration/sync-catalog-products.png)
 
 
 ### Sync Magento Promotions
@@ -71,7 +71,7 @@ Similarly to Orders, Invoices or Products, if a promotion that is active or expi
 
 
 
-![vtiger crm sync magento promotions]({{ site.url }}/assets/img/extensions-images/magento-2-vtiger-integration/sync-promotions.png)
+![vtiger crm sync magento promotions](https://www.mageplaza.com/assets/img/extensions-images/magento-2-vtiger-integration/sync-promotions.png)
 
 
 
